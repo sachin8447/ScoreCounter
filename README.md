@@ -10,4 +10,27 @@ By Pressing The Submit Button Or It Will Aotuomatically go For mail After Fallin
 
 
 
+How To use :-
+
+1. On single Run Press +1 Button It Increses The one Ball And One Run 
+2. On two Runs Press +2 Button It Increses The one Ball And Two Run 
+3. On Three Runs Press +3 Button It Increses The one Ball And Three Run 
+4. On Four Run Press +4 Button It Increses The one Ball And Four Run 
+5. On Six Run Press +6 Button It Increses The one Ball And Six Run 
+6.wide And No Ball buttons Increases One Run Without Increasing Any Balls
+
+how to use + button
+if there is extra run comes on wide ball or on No ball then 
+.press Noball/WideBall  Button and then
+.press + button And then
+.press the Runs Button 
+
+It Increases The Runs Without Increasing The No. of balls.
+
+
+
+
+
+
+
 
