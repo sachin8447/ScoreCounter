@@ -30,6 +30,16 @@ It Increases The Runs Without Increasing The No. of balls.
 
 
 
+#ScreenShots
+
+
+
+![capture](https://cloud.githubusercontent.com/assets/12112923/14934788/b589e2b8-0ed9-11e6-8956-6a11b9b31bae.PNG)
+
+
+
+
+
 
 
 
