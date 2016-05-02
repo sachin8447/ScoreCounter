@@ -1,3 +1,4 @@
+
 Readme for The Score Counter  
 -----------------------------
 
@@ -44,6 +45,14 @@ It Increases The Runs Without Increasing The No. of balls.
 
 
 ![capture](https://cloud.githubusercontent.com/assets/12112923/14934804/7dca12ac-0eda-11e6-9288-6d5316495a0c.png)
+
+
+
+
+
+Sachin Kumar(Usict,GGSIPU,New Delhi)
+email:-Sachin8447@gmail.com 
+
 
 
 
