@@ -13,7 +13,7 @@ By Pressing The Submit Button Or It Will Aotuomatically go For mail After Fallin
 
 How To use :-
 
-1. On pressing +1 Button,one Ball And One Run Increases 
+1. On pressing +1 Button,one Ball And One Run Increases                               
 2.On pressing +2 Button,1 Ball And 2 Run Increases
 3.On pressing +3 Button,1 Ball And 3 Run Increases
 4. On pressing +4 Button,1 Ball And 4 Run Increases
